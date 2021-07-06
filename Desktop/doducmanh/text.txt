@@ -1,5 +1,0 @@
-name:ducmanh96
-mail:ducmanh96.vp@gmail.com
-password:ducmanh96.vp
-
-python manage.py runserver
